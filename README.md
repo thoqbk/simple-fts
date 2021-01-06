@@ -10,7 +10,7 @@
 
 ## Sample result
 
-```json
+```js
 {
     result: [
         {
